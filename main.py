@@ -1,1 +1,0 @@
-print('super dober batch 7')
